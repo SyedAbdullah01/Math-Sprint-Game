@@ -2,7 +2,7 @@
 
 Welcome to the Math Sprint Game! This web-based game challenges your mathematical skills by presenting you with a series of equations that you need to solve as quickly as possible. This repository contains the HTML, CSS, and JavaScript code for the game.
 
-![](math-game-screenshot.png)
+![math sprint game screenshot](math-game-screenshot.png)
 
 ## Table of Contents
 
