@@ -10,6 +10,7 @@ Welcome to the Math Sprint Game! This web-based game challenges your mathematica
 - [Demo](#demo)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
+- [Technologies Used](#technologies-used)
 
 
 ## Features
@@ -45,3 +46,14 @@ To run this project locally, follow these steps:
   1. Navigate to the project directory
      cd math-sprint-game
   2. Open the `index.html` file in your web browser.
+
+
+## Technologies Used
+
+The Math Sprint Game was built using the following technologies and tools:
+
+- **HTML**: Used for creating the structure of the web pages.
+- **CSS**: Employed for styling and layout design to make the game visually appealing.
+- **JavaScript**: Utilized for implementing the game logic, user interactions, and timer functionality.
+- **GitHub**: The codebase is hosted and shared on GitHub.
+- **Netlify**: Deployed the live demo of the Math Sprint Game.
